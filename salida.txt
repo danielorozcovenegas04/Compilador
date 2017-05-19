@@ -1,0 +1,32 @@
+2324.23235 es un número
+
+
+45665.45656e+34 es un número
+
+45665.45656E+34 es un número
+
+45665.45656e-34 es un número
+
+45665.45656E-34 es un número
+
+2424 es un número
+
+ident es un identificador
+
+
+Ident es un identificador
+
+idenT es un identificador
+
+id3nt es un identificador
+
+Id3nT es un identificador
+
+else es un identificador
+
+if es un identificador
+
+fi es un identificador
+
+then es un identificador
+
