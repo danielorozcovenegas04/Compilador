@@ -1,32 +1,44 @@
-2324.23235 es un número
+123.45 es un número
 
 
-45665.45656e+34 es un número
+178.34e+45 es un número
 
-45665.45656E+34 es un número
+180.235e-5 es un número
 
-45665.45656e-34 es un número
+else es una palabra reservada
 
-45665.45656E-34 es un número
+If es un identificador
 
-2424 es un número
+NOT es un identificador
 
-ident es un identificador
+then es una palabra reservada
+
+false es un identificador
+
+inherits es un identificador
+
+true es un identificador
+
+Integer es un identificador
 
 
-Ident es un identificador
+identificador es un identificador
 
-idenT es un identificador
+"" es un literal
 
-id3nt es un identificador
+"Hola" es un literal
 
-Id3nT es un identificador
+"H0l4" es un literal
 
-else es un identificador
+"_&((/)435#$. )" es un literal
 
-if es un identificador
-
-fi es un identificador
-
-then es un identificador
-
+Se han reconocido 7 identificadores
+Se han reconocido 2 palabras reservadas
+Se han reconocido 3 números
+Se han reconocido 4 literales
+Se han reconocido 0 parentesis abiertos
+Se han reconocido 0 parentesis cerrados
+Se han reconocido 0 parentesis cuadrados abiertos
+Se han reconocido 0 parentesis cuadrados cerrados
+Se han reconocido 0 corchetes abiertos
+Se han reconocido 0 corchetes cerrados
